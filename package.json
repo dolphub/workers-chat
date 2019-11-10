@@ -1,0 +1,9 @@
+{
+  "name": "workers-chat",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:dolphub/workers-chat.git",
+  "author": "dolphub <randy.mikkelsaar@gmail.com>",
+  "license": "MIT",
+  "workspaces": "true"
+}
